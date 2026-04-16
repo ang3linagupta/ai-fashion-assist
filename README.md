@@ -7,7 +7,7 @@
 1. **Frontend:** React.js (JavaScript, CSS, Tailwind CSS)  
 2. **Backend:** Python (Flask, REST APIs)  
 3. **AI Integration:** Hugging Face Diffusion Models  
-4. **Libraries Used:** Axios, Flask-CORS  
+4. **Libraries:** Axios, Flask-CORS  
 
 
 ---
